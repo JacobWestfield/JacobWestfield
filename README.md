@@ -4,7 +4,7 @@
 
 Основная деятельность: построение пользовательских интерфейсов, создание и поддержка frontend архитектуры высоконагруженных SPA и PWA, поддержка и анализ UI/UX веб приложений, создание и поддержка различных API как на frontend так и на backend, отладка и поддержка веб/мобильных проектов.
 
-Основной стэк: TypeScript, HTML, CSS (SASS, LESS), React v16+ (Redux Toolkit, Router v5/v6), NodeJS (ExpressJS), MongoDB, ReactNative, REST API (Axios).
+Основной стэк: TypeScript, HTML, CSS (SASS, LESS), React v16+ (Redux Toolkit, Router v5/v6), NodeJS (ExpressJS), MongoDB, ReactNative, REST API (Axios), Webpack Bundler.
 Знаком с: Angular, MySQLite 
 Также легко разбираюсь в ванильном JS, могу менять стэк под потребности бизнеса.
 
