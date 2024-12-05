@@ -6,7 +6,8 @@
 
 Любой интерфейс - единственный способ связи между сущностями, поэтому он должен быть понятным и простым. Вдохновляюсь решениями Стива Джобса в построении интуитивных пользовательских интерфейсов. 
 
-Основной стэк: React v16+ (Redux Toolkit, Router v5/v6), NodeJS (ExpressJS), MongoDB/MySQLite, ReactNative, REST API (Axios).
+Основной стэк: TypeScript, HTML, CSS (SASS, LESS), React v16+ (Redux Toolkit, Router v5/v6), NodeJS (ExpressJS), MongoDB, ReactNative, REST API (Axios).
+Знаком с: Angular, MySQLite 
 Также легко разбираюсь в ванильном JS, могу менять стэк под потребности бизнеса.
 
 Опыт работы: 
